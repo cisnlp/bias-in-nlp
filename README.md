@@ -11,7 +11,6 @@ TODOS
 Papers
 -----
 
-
 **Towards Detection of Subjective Bias using Contextualized Word Embeddings**  
 WebConf2020 - [Paper](https://arxiv.org/pdf/2002.06644.pdf), [Code](https://github.com/tanvidadu/Subjective-Bias-Detection)  
 *Note:* Wikineutrality Corpus.
@@ -28,7 +27,7 @@ ACL2020 - [Paper](https://pdfs.semanticscholar.org/0d96/5ed237a3b4592ecefdb618c2
 
 
 **Neutralizing Gender Bias in Word Embedding with Latent Disentanglement and Counterfactual Generation**  
-arxiv2020 - [Paper](https://arxiv.org/pdf/2004.03133.pdf), [Code]()  
+arxiv2020 - [Paper](https://arxiv.org/pdf/2004.03133.pdf)  
 *Note:* Counterfactual generation.
 
 
@@ -48,27 +47,27 @@ ACL2020 - [Paper](https://arxiv.org/pdf/2005.00965.pdf), [Code](https://github.c
 
 
 **Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer**  
-ACL2020 - [Paper](https://arxiv.org/pdf/2005.00699.pdf), [Code]()  
+ACL2020 - [Paper](https://arxiv.org/pdf/2005.00699.pdf)  
 *Note:* Bias in multilingual embeddings depends on the alignment direction.
 
 
 **Scalable Cross Lingual Pivots to Model Pronoun Gender for Translation**  
-arxiv2020 - [Paper](https://arxiv.org/pdf/2006.08881.pdf), [Code]()  
+arxiv2020 - [Paper](https://arxiv.org/pdf/2006.08881.pdf)  
 *Note:* Gender labels for pronouns in MT English-Spanish.
 
 
 **Detecting Emergent Intersectional Biases: Contextualized Word Embeddings Contain a Distribution of Human-like Biases**  
-arxiv2020 - [Paper](https://arxiv.org/pdf/2006.03955.pdf), [Code]()  
+arxiv2020 - [Paper](https://arxiv.org/pdf/2006.03955.pdf)  
 *Note:* CEAT
 
 
 **OSCaR: Orthogonal Subspace Correction and Rectification of Biases in Word Embeddings**  
-arxiv2020 - [Paper](https://arxiv.org/pdf/2007.00049.pdf), [Code]()  
+arxiv2020 - [Paper](https://arxiv.org/pdf/2007.00049.pdf)  
 *Note:* Preserve semantic meaning of embeddings. 
 
 
 **Investigating Gender Bias in BERT**  
-arxiv2020 - [Paper](https://arxiv.org/pdf/2009.05021.pdf), [Code]()  
+arxiv2020 - [Paper](https://arxiv.org/pdf/2009.05021.pdf)  
 *Note:* Identify one gender direction per BERT layer.
 
 
@@ -88,12 +87,12 @@ arxiv2020 - [Paper](https://arxiv.org/pdf/2010.02847.pdf), [Code](https://github
 
 
 **LOGAN: Local Group Bias Detection by Clustering**  
-arxiv2020 - [Paper](https://arxiv.org/pdf/2010.02867.pdf), [Code]()  
+arxiv2020 - [Paper](https://arxiv.org/pdf/2010.02867.pdf)  
 *Note:* Identify biases through clustering.
 
 
 **Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation**  
-arxiv2020 - [Paper](https://arxiv.org/pdf/2009.09435.pdf), [Code]()  
+arxiv2020 - [Paper](https://arxiv.org/pdf/2009.09435.pdf)  
 *Note:* Verify whether non-linear debiasing helps. It seems not.
 
 
@@ -103,12 +102,12 @@ arxiv2020 - [Paper](https://arxiv.org/pdf/2010.14534.pdf), [Code](https://github
 
 
 **Language (Technology) is Power: A Critical Survey of “Bias” in NLP**  
-arxiv2020 - [Paper](https://arxiv.org/pdf/2005.14050.pdf), [Code]()  
+arxiv2020 - [Paper](https://arxiv.org/pdf/2005.14050.pdf)  
 *Note:* Metastudy: survey of 146 gender bias papers
 
 
 **Pick a Fight or Bite your Tongue: Investigation of Gender Differences in Idiomatic Language Usage**  
-arxiv2020 - [Paper](https://arxiv.org/pdf/2011.00335.pdf), [Code]()  
+arxiv2020 - [Paper](https://arxiv.org/pdf/2011.00335.pdf)  
 *Note:* Idiomatic expressions depending on the speaker.
 
 
@@ -128,32 +127,32 @@ NAACL2019 - [Paper](https://arxiv.org/pdf/1903.03862.pdf), [Code](https://github
 
 
 **Equalizing Gender Bias in Neural Machine Translation with Word Embeddings Techniques**  
-GeBNLP 2019 - [Paper](https://arxiv.org/pdf/1901.03116.pdf), [Code]()  
+GeBNLP 2019 - [Paper](https://arxiv.org/pdf/1901.03116.pdf)  
 *Note:* Spanisch-Englisch translation with occupations.
 
 
 **Evaluating the Underlying Gender Bias in Contextualized Word Embeddings**  
-GeBNLP 2019 - [Paper](https://arxiv.org/pdf/1904.08783.pdf), [Code]()  
+GeBNLP 2019 - [Paper](https://arxiv.org/pdf/1904.08783.pdf)  
 *Note:* Cointextualized embeddings are less biased than static ones. 
 
 
 **Mitigating Gender Bias in Natural Language Processing: Literature Review**  
-ACL2019 - [Paper](https://www.aclweb.org/anthology/P19-1159.pdf), [Code]()  
+ACL2019 - [Paper](https://www.aclweb.org/anthology/P19-1159.pdf)  
 *Note:* Survey
 
 
 **What's in a Name? Reducing Bias in Bios without Access to Protected Attributes**  
-NAACL2019 - [Paper](https://arxiv.org/abs/1904.05233), [Code]()  
+NAACL2019 - [Paper](https://arxiv.org/abs/1904.05233)  
 *Note:* Work on biographies. 
 
 
 **Assessing Social and Intersectional Biases in Contextualized Word Representations**  
-NeurIPS2019 - [Paper](https://papers.nips.cc/paper/9479-assessing-social-and-intersectional-biases-in-contextualized-word-representations.pdf), [Code]()  
+NeurIPS2019 - [Paper](https://papers.nips.cc/paper/9479-assessing-social-and-intersectional-biases-in-contextualized-word-representations.pdf)  
 *Note:* Strong bias in contextualized embeddings. Bias not always visible on sentence level. 
 
 
 **It’s All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution**  
-EMNLP2019 - [Paper](https://arxiv.org/pdf/1909.00871.pdf), [Code]()  
+EMNLP2019 - [Paper](https://arxiv.org/pdf/1909.00871.pdf)  
 *Note:* Counterfactual Data Substitution (CDS)
 
 
@@ -163,7 +162,7 @@ GeBNLP 2019 - [Paper](https://arxiv.org/pdf/1906.10256.pdf), [Code](https://gith
 
 
 **Automatic Gender Identification and Reinflection in Arabic**  
-GeBNLP 2019 - [Paper](https://www.aclweb.org/anthology/W19-3822), [Code]()  
+GeBNLP 2019 - [Paper](https://www.aclweb.org/anthology/W19-3822)  
 *Note:* Arabic English Translation with focus on getting the pronouns right.
 
 
@@ -178,7 +177,7 @@ GeBNLP 2019 - [Paper](https://www.aclweb.org/anthology/W19-3801/), [Code](https:
 
 
 **Conceptor Debiasing of Word Representations Evaluated on WEAT**  
-GeBNLP 2019 - [Paper](https://arxiv.org/pdf/1906.05993.pdf), [Code]()  
+GeBNLP 2019 - [Paper](https://arxiv.org/pdf/1906.05993.pdf)  
 *Note:* Proposes Conceptor Debiasing.
 
 
@@ -193,7 +192,7 @@ GeBNLP 2019 - [Paper](https://www.aclweb.org/anthology/W19-3804), [Code](https:/
 
 
 **The Role of Protected Class Word Lists in Bias Identification of Contextualized Word Representations**  
-GeBNLP 2019 - [Paper](https://www.aclweb.org/anthology/W19-3808), [Code]()  
+GeBNLP 2019 - [Paper](https://www.aclweb.org/anthology/W19-3808)  
 *Note:* Uses conceptor debiasing
 
 
@@ -213,17 +212,17 @@ ACL2019 - [Paper](https://arxiv.org/pdf/1906.00742.pdf), [Code](https://github.c
 
 
 **Quantifying Social Biases in Contextual Word Representations**  
-GeBNLP 2019 - [Paper](https://www.cs.cmu.edu/~ytsvetko/papers/bias_in_bert.pdf), [Code]()  
+GeBNLP 2019 - [Paper](https://www.cs.cmu.edu/~ytsvetko/papers/bias_in_bert.pdf)  
 *Note:* Template based method to quantify bias.
 
 
 **Bias in Bios: A Case Study of Semantic Representation Bias in a High-Stakes Setting**  
-ACM Fat 2019 - [Paper](https://arxiv.org/pdf/1901.09451.pdf), [Code]()  
+ACM Fat 2019 - [Paper](https://arxiv.org/pdf/1901.09451.pdf)  
 *Note:* Analyze effects of bias.
 
 
 **Gender Bias in Neural Natural Language Processing**  
-Logic, Language, and Security. Springer. 2018 - [Paper](https://arxiv.org/pdf/1807.11714.pdf), [Code]()  
+Logic, Language, and Security. Springer. 2018 - [Paper](https://arxiv.org/pdf/1807.11714.pdf)  
 *Note:* Counterfactual Data Augmentation (CDA). Clear definition of Bias. Evaluates on coreference resolution and language modelling.
 
 
@@ -238,5 +237,6 @@ NeurIPS2016 - [Paper](http://papers.nips.cc/paper/6228-man-is-to-computer-progra
 
 
 **Rejecting the Gender Binary: A Vector-Space Operation.**  
-2015 - [Paper](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html), [Code]()  
+2015 - [Paper](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html)  
 *Note:* Blog post: first to propose to remove gender dimension
+

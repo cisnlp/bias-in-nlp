@@ -1,16 +1,3 @@
-Bias in NLP
-=======
-
-
-This is a collection of natural language processing papers that deal with bias (mostly gender bias). The list is by no means complete and is just a way to keep up with the large amount of papers in that area. If you miss a paper, please add it. 
-
-
-TODOS
-* add papers from [GeBNLP2020](https://genderbiasnlp.talp.cat/gebnlp2020/accepted-papers/) once they are available.
-
-Papers
------
-
 
 **Towards Detection of Subjective Bias using Contextualized Word Embeddings**  
 WebConf2020 - [Paper](https://arxiv.org/pdf/2002.06644.pdf), [Code](https://github.com/tanvidadu/Subjective-Bias-Detection)  

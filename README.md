@@ -12,6 +12,7 @@ Papers
 -----
 
 
+
 **Towards Detection of Subjective Bias using Contextualized Word Embeddings**  
 WebConf2020 - [Paper](https://arxiv.org/pdf/2002.06644.pdf), [Code](https://github.com/tanvidadu/Subjective-Bias-Detection)  
 *Note:* Wikineutrality Corpus.
@@ -125,6 +126,21 @@ arxiv2020 - [Paper](https://arxiv.org/pdf/2011.00092.pdf), [Code](https://github
 **Neural Machine Translation Doesn’t Translate Gender Coreference Right Unless You Make It**  
 GeBNLP2020 - [Paper](https://arxiv.org/pdf/2010.05332.pdf), [Code](https://github.com/DCSaunders/tagged-gender-coref)  
 *Note:* Incorporate explicit word-level gender tags.
+
+
+**The Gap on GAP: Tackling the Problem of Differing Data Distributions in Bias-Measuring Datasets**  
+NeurIPS 2020 - [Paper](https://arxiv.org/pdf/2011.01837.pdf), [Code](https://github.com/vid-koci/weightingGAP)  
+*Note:* Distances in GAP play a role.
+
+
+**AraWEAT: Multidimensional Analysis of Biases in Arabic Word Embeddings**  
+arxiv2020 - [Paper](https://arxiv.org/pdf/2011.01575.pdf), [Code](https://github.com/bakrianoo/aravec)  
+*Note:* Arabic WEAT.
+
+
+**Characterising Bias in Compressed Models**  
+arxiv2020 - [Paper](https://arxiv.org/pdf/2010.03058.pdf)  
+*Note:* Bias in compressed model is large. Provide method to identify biased examples.
 
 
 **Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them**  
@@ -245,4 +261,3 @@ NeurIPS2016 - [Paper](http://papers.nips.cc/paper/6228-man-is-to-computer-progra
 **Rejecting the Gender Binary: A Vector-Space Operation.**  
 2015 - [Paper](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html)  
 *Note:* Blog post: first to propose to remove gender dimension
-

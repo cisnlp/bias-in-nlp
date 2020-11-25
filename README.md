@@ -5,12 +5,8 @@ Bias in NLP
 This is a collection of natural language processing papers that deal with bias (mostly gender bias). The list is by no means complete and is just a way to keep up with the large amount of papers in that area. If you miss a paper, please add it. 
 
 
-TODOS
-* add papers from [GeBNLP2020](https://genderbiasnlp.talp.cat/gebnlp2020/accepted-papers/) once they are available.
-
 Papers
 -----
-
 
 
 **Towards Detection of Subjective Bias using Contextualized Word Embeddings**  
@@ -261,3 +257,10 @@ NeurIPS2016 - [Paper](http://papers.nips.cc/paper/6228-man-is-to-computer-progra
 **Rejecting the Gender Binary: A Vector-Space Operation.**  
 2015 - [Paper](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html)  
 *Note:* Blog post: first to propose to remove gender dimension
+
+
+TODOS
+* add https://arxiv.org/pdf/2011.12086.pdf
+* add https://arxiv.org/pdf/2011.12096.pdf
+* add papers from [GeBNLP2020](https://genderbiasnlp.talp.cat/gebnlp2020/accepted-papers/) once they are available.
+
